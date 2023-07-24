@@ -1,6 +1,8 @@
 # About
 Application finds the longest and the shortest string in every line from the given .txt file.
 
+> **_NOTE_:**  The application only reads up to 255 characters in the single line
+
 ## Setup
 #### First:
 
@@ -12,8 +14,5 @@ Application finds the longest and the shortest string in every line from the giv
 
 * `gcc -o program.exe main.c` to compile
 * `program.exe` to run
-
-> **_NOTE_:**
-> The application only reads up to 255 characters in the single line
 
 
