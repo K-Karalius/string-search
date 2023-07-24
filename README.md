@@ -15,6 +15,6 @@ Application finds the longest and the shortest string in every line from the giv
 
 ##### Things to note:
 
-* The application only reads up to 256 characters in the single line
+* The application only reads up to 255 characters in the single line
 
 
